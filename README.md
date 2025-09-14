@@ -1,2 +1,2 @@
 # creador-de-codigos-QR
-este es un creador de códigos QR muy sensillo de usar
+Este es un creador de códigos QR muy sencillo de usar.
